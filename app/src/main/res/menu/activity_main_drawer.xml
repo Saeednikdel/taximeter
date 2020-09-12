@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gps"
+            android:icon="@drawable/gpsset"
+            android:title="@string/gpsSetting" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/information"
+            android:title="@string/help" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_otherapp"
+                android:icon="@drawable/ic_android_black_48dp"
+                android:title="@string/otherapp" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/email" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Taxi Meter</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">تنظیمات برنامه</string>
+    <string name="speedDash">سرعت (km/h) :</string>
+    <string name="distanceDash">مسافت (km) :</string>
+    <string name="timeDash">زمان طی شده (min) :</string>
+    <string name="priceDash">مبلغ کل :</string>
+    <string name="start">شروع</string>
+    <string name="stop">توقف</string>
+    <string name="refresh">حذف</string>
+    <string name="rotate">چرخش صفحه</string>
+    <string name="timeEdit">هزینه هر دقیقه</string>
+    <string name="disEdit">هزینه هر کیلومتر</string>
+    <string name="enterEdit">هزینه ورودی</string>
+    <string name="cancel">انصراف</string>
+    <string name="exit">خروج</string>
+    <string name="exitMessage">خارج می شوید ؟</string>
+    <string name="gpsOff">جی پی اس خاموش است</string>
+    <string name="wait">صبر کنید</string>
+    <string name="ready">آماده</string>
+    <string name="baseDis">مسافت مبنا (km)</string>
+    <string name="gpsSetting">تنظیمات GPS</string>
+    <string name="setting">تنظیمات برنامه</string>
+    <string name="help">راهنما</string>
+    <string name="otherapp">سایر محصولات</string>
+    <string name="email">ارتباط</string>
+
+    <string name="menu">منو</string>
+    <string name="menuDetail">از اینجا به تنظیمات برنامه دسترسی پیدا کنید‍</string>
+    <string name="del">پاک کردن نقشه</string>
+    <string name="delDetail">با لمس نقشه و نگه داشتن آن مقصد خود را انتخاب کنید</string>
+    <string name="view">تغییر نمایش نقشه</string>
+    <string name="viewDetail">برای تغییر نحوه نمایش نقشه کلیک کنید</string>
+    <string name="startStop">شروع و توقف برنامه</string>
+    <string name="startStopDetail">عملکرد برنامه را از اینجا کنترل کنید</string>
+
+
+</resources>
